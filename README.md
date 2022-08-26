@@ -1,6 +1,6 @@
 # The-Tailor-s-App
 
-Summary:
+
 This application maintains a database for storing the customer details. 
 The owner can add new customers, delete & update existing customers and even star mark customers whenever required.
 
